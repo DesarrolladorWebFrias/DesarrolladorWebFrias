@@ -1,23 +1,19 @@
 # 💫 About Me:
 
 Sobre mí<br><br>
-Soy un programador apasionado de 33 años, originario del estado de Tabasco, México. Mi viaje por la programación es una aventura constante de aprendizaje y crecimiento. Me considero un aprendiz eterno, siempre buscando nuevas formas de expandir mis habilidades y conocimientos.<br>Mi entusiasmo por la programación me impulsa a explorar diversas tecnologías y lenguajes. Me encanta enfrentar desafíos y encontrar soluciones creativas a problemas complejos. Estoy ansioso por colaborar en proyectos emocionantes y contribuir con mi perspectiva única.<br>¿Qué me motiva?<br><br>
+Soy un programador apasionado de 33 años, originario del estado de Tabasco, México. Mi viaje por la programación es una aventura constante de aprendizaje y crecimiento. Me considero un aprendiz eterno, siempre buscando nuevas formas de expandir mis habilidades y conocimientos.<br>Mi entusiasmo por la programación me impulsa a explorar diversas tecnologías y lenguajes. Me encanta enfrentar desafíos y encontrar soluciones creativas a problemas complejos. Estoy ansioso por colaborar en proyectos emocionantes y contribuir con mi perspectiva única.<br><br>
+¿Qué me motiva?<br>
 
 •	Aprendizaje continuo: La tecnología evoluciona rápidamente y me emociona mantenerme al día con las últimas tendencias y mejores prácticas.<br>•	Colaboración: Creo en el poder del trabajo en equipo y me encanta compartir ideas y conocimientos con otros programadores.<br>
-
 •	Resolución de problemas: Me apasiona encontrar soluciones innovadoras a desafíos técnicos.<br>
-
 •	Contribución a proyectos significativos: Deseo participar en proyectos que tengan un impacto positivo en la sociedad.<br>Mis habilidades<br>
-
-•	[Conocimientos en Html5, Css3, Javascript, Bootstrap enfocados en el Desarrollo Front-end]<br><
-
+•	[Conocimientos en Html5, Css3, Javascript, Bootstrap enfocados en el Desarrollo Front-end]<br>
 •	[Conocimientos En Aprendizaje, Framework de Laravel 11 Para el desarrollo FULL-STACK]<br>
+•	[Me apasiona Desarrollar Interfaces elegantes y Creativas siempre Pensando en la usabilidad y el diseño]<br><br>
 
-•	[Me apasiona Desarrollar Interfaces elegantes y Creativas siempre Pensando en la usabilidad y el diseño]<br>
+¡Conectemos!<br>
 
-¡Conectemos!<br><br>
-
-Estoy buscando oportunidades para colaborar en proyectos interesantes y seguir creciendo como programador. Si tienes alguna pregunta o propuesta, no dudes en contactarme.<br>
+Estoy buscando oportunidades para colaborar en proyectos interesantes y seguir creciendo como programador. Si tienes alguna pregunta o propuesta, no dudes en contactarme.<br><br>
 
 ¡Vamos a construir el futuro juntos!<br>
 
