@@ -6,7 +6,8 @@ Soy un programador apasionado de 33 años, originario del estado de Tabasco, Mé
 
 •	Aprendizaje continuo: La tecnología evoluciona rápidamente y me emociona mantenerme al día con las últimas tendencias y mejores prácticas.<br>•	Colaboración: Creo en el poder del trabajo en equipo y me encanta compartir ideas y conocimientos con otros programadores.<br>
 •	Resolución de problemas: Me apasiona encontrar soluciones innovadoras a desafíos técnicos.<br>
-•	Contribución a proyectos significativos: Deseo participar en proyectos que tengan un impacto positivo en la sociedad.<br>Mis habilidades<br>
+•	Contribución a proyectos significativos: Deseo participar en proyectos que tengan un impacto positivo en la sociedad.<br><br>
+Mis habilidades<br><br>
 •	[Conocimientos en Html5, Css3, Javascript, Bootstrap enfocados en el Desarrollo Front-end]<br>
 •	[Conocimientos En Aprendizaje, Framework de Laravel 11 Para el desarrollo FULL-STACK]<br>
 •	[Me apasiona Desarrollar Interfaces elegantes y Creativas siempre Pensando en la usabilidad y el diseño]<br><br>
