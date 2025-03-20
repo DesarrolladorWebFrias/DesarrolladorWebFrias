@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Sobre mí<br><br>
-Soy un programador apasionado de 33 años, originario del estado de Tabasco, México. Mi viaje por la programación es una aventura constante de aprendizaje y crecimiento. Me considero un aprendiz eterno, siempre buscando nuevas formas de expandir mis habilidades y conocimientos.<br>Mi entusiasmo por la programación me impulsa a explorar diversas tecnologías y lenguajes. Me encanta enfrentar desafíos y encontrar soluciones creativas a problemas complejos. Estoy ansioso por colaborar en proyectos emocionantes y contribuir con mi perspectiva única.<br>¿Qué me motiva?<br><br>
+Soy un programador apasionado de 33 años, originario del estado de Tabasco, México. Mi viaje por la programación es una aventura constante de aprendizaje y crecimiento. Me considero un aprendiz eterno, siempre buscando nuevas formas de expandir mis habilidades y conocimientos.<br>Mi entusiasmo por la programación me impulsa a explorar diversas tecnologías y lenguajes. Me encanta enfrentar desafíos y encontrar soluciones creativas a problemas complejos. Estoy ansioso por colaborar en proyectos emocionantes y contribuir con mi perspectiva única.<br>¿Qué me motiva?<br>
 
 •	Aprendizaje continuo: La tecnología evoluciona rápidamente y me emociona mantenerme al día con las últimas tendencias y mejores prácticas.<br>•	Colaboración: Creo en el poder del trabajo en equipo y me encanta compartir ideas y conocimientos con otros programadores.<br><br>
 
